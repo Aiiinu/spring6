@@ -16,6 +16,7 @@ public class UserTest {
         UserService userService = (UserService) context.getBean(UserService.class);
         System.out.println(userService);
         userService.add();
+        System.out.println("hello git!");
     }
 
 }
