@@ -17,6 +17,7 @@ public class UserTest {
         System.out.println(userService);
         userService.add();
         System.out.println("hello git!");
+        System.out.println("hello git2");
     }
 
 }
